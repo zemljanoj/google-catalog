@@ -5,6 +5,12 @@
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
         "zemljanoj/google-client": "^1.0"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:zemljanoj/google-client.git"
+        }
+    ],
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
